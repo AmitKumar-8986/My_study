@@ -16,11 +16,11 @@ sudo nmcli connection down ens33
 sudo nmcli connection up ens33
 yum remove bind bind-utils -y
 yum install bind bind-utils -y
-echo $ip_add > arnab
-a=`awk -F"." '{print $1}' arnab`
-b=`awk -F"." '{print $2}' arnab`
-c=`awk -F"." '{print $3}' arnab`
-d=`awk -F"." '{print $4}' arnab`
+echo $ip_add > amit
+a=`awk -F"." '{print $1}' amit`
+b=`awk -F"." '{print $2}' amit`
+c=`awk -F"." '{print $3}' amit`
+d=`awk -F"." '{print $4}' amit`
 sed -i "11c\ listen-on port 53 { $ip_add; };" /etc/named.conf
 sed -i '12c\ #listen-on-v6 port 53 { ::1; };' /etc/named.conf
 sed -i '19c\allow-query {any;};' /etc/named.conf
@@ -146,33 +146,33 @@ case $cho in
 read -p "Enter how many network you want to ban :- " sa
 for i in `seq $sa`; do
 read -p "Enter the network $1 you want to ban :- " ips
-sed -i "1i acl localnet$i src $ips/24 \nhttp_access allow localnet$i \n" arnab
+sed -i "1i acl localnet$i src $ips/24 \nhttp_access allow localnet$i \n" amit
 done
 ;;
 2)
 read -p "Enter website you want to ban :- " sa1
-sed -i '1i acl blocksite$i dstdomain $sa1\nhttp_access deny blocksite$i \n' arnab
+sed -i '1i acl blocksite$i dstdomain $sa1\nhttp_access deny blocksite$i \n' amit
 ;;
 3)
 read -p "Enter the list of block list" blockList
 echo $blockList | tr ',' '\n' > /etc/squid/blockedsites.squid
-sed -i '1i acl blocksites dstdomain \"/etc/squid/blockedsites.squid\"\nhttp_access deny blocksites \n' arnab
+sed -i '1i acl blocksites dstdomain \"/etc/squid/blockedsites.squid\"\nhttp_access deny blocksites \n' amit
 systemctl restart squid.service
 ;;
 4)
 read -p "Enter the list of block list" banKeyword
 echo $banKeyword | tr ',' '\n' > /etc/squid/ban_keywords.txt
-sed -i '1i acl bad_keywords url_regex \"/etc/squid/ban_keywords.txt \"\nhttp_access deny bad_keywords \n' arnab
+sed -i '1i acl bad_keywords url_regex \"/etc/squid/ban_keywords.txt \"\nhttp_access deny bad_keywords \n' amit
 systemctl restart squid.service
 ;;
 5)
 read -p "Enter the list of block list" blockfiles
 echo $blockfiles | tr ',' '\n' > /etc/squid/blockfiles.squid
-sed -i '1i acl blockfiles urlpath_regex \"/etc/squid/blockfiles.squid\" \nhttp_access deny blockfiles \n' arnab
+sed -i '1i acl blockfiles urlpath_regex \"/etc/squid/blockfiles.squid\" \nhttp_access deny blockfiles \n' amit
 systemctl restart squid.service
 ;;
 6)
-sed -i '1i acl working_hours time 10:00-17:00 \nhttp_access deny working_hours \n' arnab
+sed -i '1i acl working_hours time 10:00-17:00 \nhttp_access deny working_hours \n' amit
 ;;
 *)
 echo "wrong choice"
