@@ -1,0 +1,20 @@
+openssh:-
+=========
+1.	yum install openssh-server -y
+2.	vim /etc/ssh/sshd_config
+		press esc :set nu(to set line number)
+		21 #Port 22 (uncomment this line)
+		40 PermitRootLogin prohibit-password (remove prohibit-password and add yes) 
+	:wq
+3.	systemctl restart sshd
+4.	systemctl enable sshd
+5.	goto client run ssh user_name@x.x.x.x and provide the password of that user.(x.x.x.x=ip address)
+		*(if not open then run 'yum install openssh-client' and enable firewall in server side.)
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````
+Copy data from remote systems(using openssh):-
+==============================================
+1.	scp -r root@192.168.182.10:/root/data/file.txt /root              
+		\__(Username) \__(IP)  \__(source path)	\___(destination path)
+		     \__provide the password of user(root)
+2.	ls(to check)
