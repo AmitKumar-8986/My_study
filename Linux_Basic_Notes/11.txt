@@ -1,0 +1,7 @@
+11. How many files exist on the system that have the ".log" file extension?
+
+find / -type f -iname "*.log" 2>/dev/null | wc -l
+
+2. How many total packages are installed on the target system?
+
+ dpkg -l | grep -c '^ii'
