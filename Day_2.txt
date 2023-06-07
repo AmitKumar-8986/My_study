@@ -1,0 +1,58 @@
+   12  yum install squid
+   13  systemctl start squid
+   14  systemctl enable squid
+   15  vim /etc/squid/squid.conf
+	
+	46 # INSERT YOUR OWN RULE(S) HERE TO ALLOW ACCESS FROM YOUR CLIENTS
+ 	47 acl mynet src 192.168.203.0/24
+ 	48 acl client1 src 192.168.203.132
+ 	49 acl client2 src 192.168.203.134
+ 	51 acl common_web dstdomain "/etc/squid/common_web.txt"
+	52 acl client1_web dstdomain "/etc/squid/client1_web.txt"
+ 	53 acl client2_web dstdomain "/etc/squid/client2_web.txt"
+ 	54 acl alw dstdomain www.cricbuzz.com 
+ 	56 http_access allow client1_web client1
+ 	57 http_access allow client2_web client2
+ 	58 http_access allow common_web mynet
+ 	59 http_access deny alw client1
+ 	60 http_access deny all
+ 	71 # Squid normally listens to port 3128
+ 	72 http_port 3128
+ 	73 visible_hostname proxy.demo.lab
+ 	74 # Uncomment and adjust the following to add a disk cache directory.
+ 	75 cache_dir ufs /var/spool/squid 200 16 256
+
+   16  vim /etc/squid/client1_web.txt
+
+	www.cdac.in
+	www.micromax.in
+	www.sunbeaminfo.com
+	
+   17  vim /etc/squid/client2_web.txt
+
+	www.youtube.com
+	www.yahoo.com
+	www.timesofindia.com
+
+   18  vim /etc/squid/common_web.txt
+
+	www.microsoft.com
+	www.cisco.com
+	www.redhat.com
+	www.gmail.com
+	www.google.com
+	             
+   19  systemctl restart squid
+   20  firewall-cmd --zone=public --add-service=squid --permanent 
+   21  firewall-cmd --reload 
+   23  systemctl restart squid
+  
+
+
+
+
+
+
+
+
+
