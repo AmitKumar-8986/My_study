@@ -1,0 +1,17 @@
+read -p "Enter the chain name: " chname
+read -p "Enter the protocol: " proto
+read -p "Enter the source ip / Network address: " srcip
+read -p "Enter the destination ip / Network address: " destip
+if [[ $proto == "tcp" || $proto == "udp" ]];then
+read -p "Enter Source port: " sport
+read -p "Enter Destination port: " dport
+if [[ $sport == "0" || -z $sport ]] || [[ $dport == "0" || -z $dport ]]; then
+        echo -e "No Source/Destination port is specified.\n"
+else
+        iptables -I $chname 1 -p $proto -s $srcip -d $destip --dport $dport -j ACCEPT
+        iptables -I $chname 1 -p $proto -d $srcip -d $destip --sport $sport -j ACCEPT
+fi
+else
+        iptables -I $chname 1 -p $proto -s $srcip -d $destip -j ACCEPT
+        iptables -I $chname 1 -p $proto -d $srcip -s $destip -j ACCEPT
+fi
