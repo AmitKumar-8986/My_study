@@ -60,3 +60,28 @@ Managing Grafana Services:
 Removing Grafana Services:
 
   ->sudo yum remove grafana-6.7.3-1.x86_64
+Changing Grafana Database to MySQL
+
+Table of Contents	
+1. Installing MySQL Server
+2. Starting MySQL Server
+3. Creating a new database in MySQL Database
+4. Making changes in Grafana Configuration File.
+
+Installing MySQL Server
+  ->wget https://dev.mysql.com/get/mysql57-community-release-el7-9.noarch.rpm
+  ->sudo rpm -ivh mysql57-community-release-el7-9.noarch.rpm
+  ->sudo yum install mysql-server
+  ->Starting MySQL Server
+  ->sudo systemctl start mysqld
+  ->sudo systemctl status mysqld
+  ->sudo grep 'temporary password' /var/log/mysqld.log
+Creating a new database in MySQL Database
+  ->sudo mysql_secure_installation
+  ->create database grafanadb CREATE USER 'grafana'@'localhost' IDENTIFIED BY 'grafana';
+  ->GRANT ALL PRIVILEGES ON grafanadb.* TO 'grafana'@'localhost';
+  ->FLUSH PRIVILEGES;
+Making changes in Grafana Configuration File.
+  Open Grafana configuration file which is by default available at /etc/grafana/grafana.ini and change url of mysqldb as shown below:
+
+  url =mysql://grafana:grafana@localhost:3306/grafanadb
