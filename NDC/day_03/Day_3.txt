@@ -1,0 +1,69 @@
+cat > /etc/squid/sales_dpt.txt
+	www.youtube.com
+	www.telegram.com
+	www.webwhatsapp.com
+cat > /etc/squid/development_dpt.txt
+	www.microsoft.com
+	www.redhat.com
+	www.awscloud.com
+	www.azurecloud.com
+	www.google.com
+cat > /etc/squid/admin_dpt.txt
+	www.google.com
+	www.gmail.com
+	www.yahoo.com
+	www.office365.com
+cat > /etc/squid/director.txt
+	www.youtube.com
+	www.telegram.com
+	www.webwhatsapp.com
+	www.microsoft.com
+	www.redhat.com
+	www.awscloud.com
+	www.azurecloud.com
+	www.google.com
+	www.gmail.com
+	www.yahoo.com
+	www.office365.com
+cat > /etc/squid/badwords.txt
+	torrent
+	movies
+	sports
+	vires
+	web
+vim /etc/squid/squid.conf
+	#
+	# INSERT YOUR OWN RULE(S) HERE TO ALLOW ACCESS FROM YOUR CLIENTS
+	#
+	acl  sales src 192.168.121.5
+	acl  devp src 192.168.121.64
+	acl  adm src 192.168.121.128
+	acl  direct src 192.168.121.0/24
+
+	acl sales_web dstdomain "/etc/squid/sales_dpt.txt"
+	acl devp_web dstdomain "/etc/squid/development_dpt.txt"
+	acl adm_web dstdomain "/etc/squid/admin_dpt.txt"
+	#acl direct_web dstdomain "/etc/squid/director.txt"
+
+	acl bad_key url_regex -i "/etc/squid/badwords.txt"
+
+	acl hstar time 9:00-17:00
+	acl hstar_web dstdomain www.cricbuzz.com
+
+	http_access allow sales_web sales 
+	http_access allow devp_web devp
+	http_access allow adm_web adm
+	http_access allow hstar_web hstar
+	#http_access deny direct_web direct
+
+	http_access deny bad_key sales devp adm direct
+	http_access deny hstar
+	deny all
+	# Squid normally listens to port 3128
+	http_port 3128
+	visible_hostname proxy.demo.lab
+	# Uncomment and adjust the following to add a disk cache directory.
+	cache_dir ufs /var/spool/squid 200 16 256
+	:wq
+systemctl restart squid
+systemctl enable squid
