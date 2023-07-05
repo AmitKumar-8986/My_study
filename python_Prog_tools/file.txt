@@ -1,0 +1,501 @@
+45.112.138.214.actcorp.in has address 45.112.138.214
+106.51.8.242.actcorp.in has address 106.51.8.242
+106.51.74.200.actcorp.in has address 106.51.74.200
+106.51.75.60.actcorp.in has address 106.51.75.60
+106.51.77.52.actcorp.in has address 106.51.77.52
+106.51.96.203.actcorp.in has address 106.51.96.203
+106.51.153.215.actcorp.in has address 106.51.153.215
+183.82.1.77.actcorp.in has address 183.82.1.77
+183.82.5.17.actcorp.in has address 183.82.5.17
+183.82.105.140.actcorp.in has address 183.82.105.140
+183.82.109.116.actcorp.in has address 183.82.109.116
+183.82.110.74.actcorp.in has address 183.82.110.74
+183.82.111.126.actcorp.in has address 183.82.111.126
+183.82.115.238.actcorp.in has address 183.82.115.238
+183.82.116.94.actcorp.in has address 183.82.116.94
+183.82.120.65.actcorp.in has address 183.82.120.65
+183.82.122.193.actcorp.in has address 183.82.122.193
+183.82.241.82.actcorp.in has address 183.82.241.82
+202.83.16.153.actcorp.in has address 202.83.16.153
+202.83.16.241.actcorp.in has address 202.83.16.241
+202.83.19.218.actcorp.in has address 202.83.19.218
+202.83.25.26.actcorp.in has address 202.83.25.26
+aat.actcorp.in is an alias for aat-blr.actcorp.in.
+aat-blr.actcorp.in has address 202.83.20.128
+aatahm.actcorp.in has address 123.176.37.112
+aatblr.actcorp.in has address 202.83.20.126
+aatblrsec.actcorp.in has address 202.83.21.38
+aatcbe.actcorp.in has address 106.51.113.8
+aatchn.actcorp.in has address 103.16.203.15
+aatchnsec.actcorp.in has address 103.16.203.21
+aatdel.actcorp.in has address 49.207.46.31
+aathyd.actcorp.in has address 123.176.37.198
+aathydsec.actcorp.in has address 202.53.8.169
+aatjpr.actcorp.in has address 49.207.46.28
+aatnlr.actcorp.in has address 106.51.255.20
+aatuat.actcorp.in has address 202.83.20.150
+aatviz.actcorp.in has address 106.51.115.158
+aatvjw.actcorp.in has address 202.83.30.39
+aat-blr.actcorp.in has address 202.83.20.128
+acs.actcorp.in has address 123.176.40.28
+acsanalyzer.actcorp.in has address 123.176.37.183
+acstest.actcorp.in has address 123.176.40.246
+act1.broadband.actcorp.in has address 202.83.16.37
+actcorp.in has address 52.66.101.246
+actcorp-hyd.actcorp.in has no A record
+actdemo.actcorp.in has address 123.176.37.2
+actfioritri.sap.actcorp.in has address 202.53.8.141
+actforcehyd.actcorp.in has address 202.53.8.139
+actottvdm.actcorp.in has address 49.205.73.2
+acts4hanatci.sap.actcorp.in has address 202.53.8.207
+actversity.actcorp.in has address 3.6.243.61
+actwebdipprd.sap.actcorp.in is an alias for actwebdipprd.sap.actcorp.in.induscdn.com.
+actwebdipprd.sap.actcorp.in.induscdn.com is an alias for actwebdipprd.sap.actcorp.in.indusguard.com.
+actwebdipprd.sap.actcorp.in.indusguard.com has address 13.127.203.162
+actwebdipprd.sap.actcorp.in.indusguard.com has address 13.127.53.245
+actwebdipprd-blr.sap.actcorp.in has address 49.205.74.62
+actwebdipprd-hyd.sap.actcorp.in has address 202.53.8.110
+actwebdpdeqa.sap.actcorp.in is an alias for actwebdpdeqa-hyd.sap.actcorp.in.
+actwebdpdeqa-hyd.sap.actcorp.in has address 123.176.37.111
+actwebdpdeqa-hyd.sap.actcorp.in has address 123.176.37.111
+actwidevinedrm.actcorp.in has address 49.205.73.34
+actwidevinedrm.actcorp.in has address 49.205.73.35
+addon.actcorp.in is an alias for addon-hyd.actcorp.in.
+addon-hyd.actcorp.in has address 123.176.37.218
+addon-blr.actcorp.in has address 106.51.41.65
+addon-hyd.actcorp.in has address 123.176.37.218
+afp.actcorp.in is an alias for afp.actcorp.in.induscdn.com.
+afp.actcorp.in.induscdn.com is an alias for afp.actcorp.in.indusguard.com.
+afp.actcorp.in.indusguard.com has address 15.207.219.15
+afp.actcorp.in.indusguard.com has address 65.2.19.98
+afp-blr.actcorp.in has address 106.51.41.104
+alerts.actcorp.in has no A record
+alphafibernet.actcorp.in has address 106.51.41.15
+apps.actcorp.in has address 123.176.37.233
+archive.actcorp.in has address 202.83.20.157
+autodiscover.actcorp.in is an alias for autodiscover.outlook.com.
+autodiscover.outlook.com is an alias for atod-g2.tm-4.office.com.
+atod-g2.tm-4.office.com is an alias for autod.ms-acdc-autod.office.com.
+autod.ms-acdc-autod.office.com has address 40.99.9.56
+autod.ms-acdc-autod.office.com has address 40.99.31.168
+autod.ms-acdc-autod.office.com has address 40.99.31.136
+autod.ms-acdc-autod.office.com has address 52.98.123.200
+betafibernet.actcorp.in has address 106.51.41.11
+bjhs.actcorp.in has address 123.176.37.97
+bots.actcorp.in is an alias for bots.actcorp.in.induscdn.com.
+bots.actcorp.in.induscdn.com is an alias for bots.actcorp.in.indusguard.com.
+bots.actcorp.in.indusguard.com has address 13.234.177.30
+bots.actcorp.in.indusguard.com has address 3.7.61.173
+broadband.actcorp.in has address 202.83.16.167
+broadbanduser1001.actcorp.in has address 106.51.44.33
+btrac1-vip.actcorp.in has address 123.176.37.131
+btrac2-vip.actcorp.in has address 123.176.37.132
+btstat.actcorp.in has address 123.176.40.34
+caf.actcorp.in has address 123.176.40.32
+chmr.actcorp.in has address 123.176.37.101
+chnwifizone.actcorp.in has address 202.53.8.120
+cmsapi.actcorp.in is an alias for cmsapi.actcorp.in.induscdn.com.
+cmsapi.actcorp.in.induscdn.com is an alias for cmsapi.actcorp.in.indusguard.com.
+cmsapi.actcorp.in.indusguard.com has address 15.207.219.15
+cmsapi.actcorp.in.indusguard.com has address 65.2.19.98
+cmsapi2.actcorp.in has address 49.205.74.4
+cmsapi-blr.actcorp.in has address 49.205.74.3
+cmsimageserver.actcorp.in is an alias for cmsimageserver.actcorp.in.induscdn.com.
+cmsimageserver.actcorp.in.induscdn.com is an alias for cmsimageserver.actcorp.in.indusguard.com.
+cmsimageserver.actcorp.in.indusguard.com has address 3.7.61.173
+cmsimageserver.actcorp.in.indusguard.com has address 13.234.177.30
+cmspublisher.actcorp.in has address 49.205.74.6
+cmspublisher2.actcorp.in has address 49.205.74.5
+cmstestapi.actcorp.in has address 106.51.41.67
+cmstestimageserver.actcorp.in has address 106.51.41.63
+cmstestpublisher.actcorp.in has address 106.51.41.62
+conference.actcorp.in has address 123.176.40.240
+corp.actcorp.in has address 123.176.40.32
+corpmrtg.actcorp.in has address 202.53.10.98
+crm.actcorp.in has address 123.176.37.130
+crmcc.actcorp.in has address 123.176.37.124
+crmonline.actcorp.in has address 123.176.37.129
+delspeedtest1.actcorp.in has address 49.207.46.9
+delspeedtest2.actcorp.in has address 49.207.46.9
+delta.actcorp.in is an alias for delta.actcorp.in.induscdn.com.
+delta.actcorp.in.induscdn.com is an alias for delta.actcorp.in.indusguard.com.
+delta.actcorp.in.indusguard.com has address 13.127.53.245
+delta.actcorp.in.indusguard.com has address 13.127.203.162
+dev.actcorp.in has address 202.53.8.37
+devcorp.actcorp.in has address 202.53.8.33
+devselfcare.actcorp.in has address 123.176.37.149
+digibill.actcorp.in is an alias for digibill.actcorp.in.induscdn.com.
+digibill.actcorp.in.induscdn.com is an alias for digibill.actcorp.in.indusguard.com.
+digibill.actcorp.in.indusguard.com has address 43.204.118.148
+digibill.actcorp.in.indusguard.com has address 43.204.76.5
+digibill-blr.actcorp.in has address 106.51.41.59
+digital.actcorp.in is an alias for digital.actcorp.in.induscdn.com.
+digital.actcorp.in.induscdn.com is an alias for digital.actcorp.in.indusguard.com.
+digital.actcorp.in.indusguard.com has address 43.204.76.5
+digital.actcorp.in.indusguard.com has address 43.204.118.148
+digitalapps.actcorp.in has address 202.83.20.115
+digitalpay.actcorp.in is an alias for digitalpay-hyd.actcorp.in.
+digitalpay-hyd.actcorp.in has address 202.53.8.62
+digitalpayments.actcorp.in is an alias for digitalpayments-hyd.actcorp.in.
+digitalpayments-hyd.actcorp.in has address 123.176.37.217
+digitalpayments-blr.actcorp.in has address 49.205.74.50
+digitalpayments-hyd.actcorp.in has address 123.176.37.217
+digitalpay-blr.actcorp.in has address 106.51.41.55
+digitalpay-hyd.actcorp.in has address 202.53.8.62
+digitalselfcare.actcorp.in is an alias for digitalselfcare.actcorp.in.indusguard.com.
+digitalselfcare.actcorp.in.indusguard.com has address 13.234.100.208
+digitalselfcare.actcorp.in.indusguard.com has address 13.234.170.222
+digitalselfcare-hyd.actcorp.in has address 123.176.37.50
+digitaltest.actcorp.in has address 202.83.20.144
+digitaltpt.actcorp.in has address 49.205.66.113
+digital-hyd.actcorp.in has address 123.176.37.50
+dlp.actcorp.in has address 202.53.8.128
+dms.actcorp.in is an alias for dms-hyd.actcorp.in.
+dms-hyd.actcorp.in has address 123.176.37.106
+dms-blr.actcorp.in has address 106.51.41.49
+dms-hyd.actcorp.in has address 123.176.37.106
+dns-18.actcorp.in has address 202.53.8.217
+dossier.actcorp.in is an alias for dossier-hyd.actcorp.in.
+dossier-hyd.actcorp.in has address 123.176.37.98
+dossier-blr.actcorp.in has address 106.51.41.40
+dossier-hyd.actcorp.in has address 123.176.37.98
+ebexact.actcorp.in is an alias for ebexact.actcorp.in.induscdn.com.
+ebexact.actcorp.in.induscdn.com is an alias for ebexact.actcorp.in.indusguard.com.
+ebexact.actcorp.in.indusguard.com has address 15.206.242.97
+ebexact.actcorp.in.indusguard.com has address 3.109.80.199
+ebexactapp.actcorp.in has address 123.176.37.53
+ebexact-hyd.actcorp.in has address 123.176.37.51
+ecms.actcorp.in is an alias for ecms-hyd.actcorp.in.
+ecms-hyd.actcorp.in has address 123.176.37.195
+ecms-blr.actcorp.in has address 106.51.41.149
+ecms-hyd.actcorp.in has address 123.176.37.195
+ekycaadhar.actcorp.in has address 202.83.20.139
+elite.actcorp.in is an alias for elite.actcorp.in.induscdn.com.
+elite-blr.actcorp.in has address 106.51.41.146
+emails.in4.actcorp.in is an alias for trans.ncapp02.com.
+trans.ncapp02.com has address 202.162.242.39
+enterpriseenrollment.actcorp.in is an alias for enterpriseenrollment.manage.microsoft.com.
+enterpriseenrollment.manage.microsoft.com is an alias for manage-pe.trafficmanager.net.
+manage-pe.trafficmanager.net is an alias for pexsucpap03.koreacentral.cloudapp.azure.com.
+pexsucpap03.koreacentral.cloudapp.azure.com has address 20.214.131.176
+enterpriseregistration.actcorp.in is an alias for enterpriseregistration.windows.net.
+enterpriseregistration.windows.net is an alias for adrs.privatelink.msidentity.com.
+adrs.privatelink.msidentity.com is an alias for www.tm.prd.adrs.trafficmanager.net.
+www.tm.prd.adrs.trafficmanager.net is an alias for na.privatelink.msidentity.com.
+na.privatelink.msidentity.com is an alias for prdf.aadg.msidentity.com.
+prdf.aadg.msidentity.com is an alias for www.tm.f.prd.aadg.trafficmanager.net.
+www.tm.f.prd.aadg.trafficmanager.net has address 40.126.18.36
+www.tm.f.prd.aadg.trafficmanager.net has address 40.126.18.35
+erp1.actcorp.in has address 202.83.20.138
+erp2.actcorp.in has address 202.83.20.138
+evfileshare.actcorp.in is an alias for evfileshare-blr.actcorp.in.
+evfileshare-blr.actcorp.in has address 49.205.74.11
+evfileshare-blr.actcorp.in has address 49.205.74.11
+exact.actcorp.in is an alias for exact.actcorp.in.induscdn.com.
+exact.actcorp.in.induscdn.com is an alias for exact.actcorp.in.indusguard.com.
+exact.actcorp.in.indusguard.com has address 43.204.118.148
+exact.actcorp.in.indusguard.com has address 43.204.76.5
+exacttest.actcorp.in is an alias for exacttest.actcorp.in.induscdn.com.
+exact-blr.actcorp.in has address 106.51.41.102
+exact-hyd.actcorp.in has address 123.176.37.171
+fiberify.actcorp.in is an alias for fiberify-blr.actcorp.in.
+fiberify-blr.actcorp.in has address 106.51.41.41
+fiberify-blr.actcorp.in has address 106.51.41.41
+fileshare.actcorp.in has address 123.176.37.250
+focus.actcorp.in has address 202.83.23.126
+forum.actcorp.in has address 123.176.37.188
+ftp.actcorp.in has address 202.53.8.84
+ftpone.actcorp.in has address 123.176.37.37
+gis.actcorp.in is an alias for gis-blr.actcorp.in.
+gis-blr.actcorp.in has address 106.51.41.103
+gisapp.actcorp.in has address 106.51.41.52
+gisinventory.actcorp.in has address 106.51.41.53
+gisreport.actcorp.in has address 106.51.41.69
+gisweb.actcorp.in has address 202.83.20.109
+giswebtest.actcorp.in is an alias for giswebtest.actcorp.in.induscdn.com.
+gisworkflow.actcorp.in has address 106.51.41.54
+gis-blr.actcorp.in has address 106.51.41.103
+gis-hyd.actcorp.in has address 123.176.37.97
+gngr.actcorp.in has address 123.176.37.98
+gs.actcorp.in has address 123.176.40.32
+happ1.in4.actcorp.in is an alias for lnk.etransmail.com.
+lnk.etransmail.com has address 34.117.197.73
+harborrepo.actcorp.in is an alias for harborrepo-hyd.actcorp.in.
+harborrepo-hyd.actcorp.in has address 123.176.37.167
+harborrepo-hyd.actcorp.in has address 123.176.37.167
+harbor-blr.actcorp.in has address 172.23.21.36
+harbor-hyd.actcorp.in has address 10.100.112.93
+hpdatabackup.actcorp.in has address 123.176.40.188
+hrms.actcorp.in is an alias for hrms-hyd.actcorp.in.
+hrms-hyd.actcorp.in has address 202.53.8.222
+hrms-hyd.actcorp.in has address 202.53.8.222
+htcy.actcorp.in has address 123.176.37.100
+hyd.actcorp.in has address 202.83.20.100
+hyddns.actcorp.in has address 49.205.171.194
+hydtest.actcorp.in has address 202.83.20.106
+hyfi.actcorp.in has address 202.53.8.90
+iapps.actcorp.in has address 202.53.8.171
+im.actcorp.in has address 123.176.40.42
+imap.actcorp.in is an alias for us2.imap.mailhostbox.com.
+us2.imap.mailhostbox.com has address 162.215.2.38
+us2.imap.mailhostbox.com has address 162.215.3.36
+us2.imap.mailhostbox.com has address 162.215.3.38
+us2.imap.mailhostbox.com has address 162.215.3.40
+us2.imap.mailhostbox.com has address 162.215.2.36
+img.actcorp.in has address 202.53.8.228
+img.in4.actcorp.in has address 206.183.108.6
+imgdd.in4.actcorp.in is an alias for images.nczc.asia.
+images.nczc.asia has address 202.162.239.6
+in.actcorp.in has no A record
+in3.actcorp.in has no A record
+incredible.actcorp.in has address 202.83.20.100
+inmail.actcorp.in has address 202.83.20.150
+internal.actcorp.in has address 123.176.37.32
+internalapps.actcorp.in is an alias for internalapps.actcorp.in.induscdn.com.
+internalapps.actcorp.in.induscdn.com is an alias for internalapps.actcorp.in.indusguard.com.
+internalapps.actcorp.in.indusguard.com has address 15.207.219.15
+internalapps.actcorp.in.indusguard.com has address 65.2.19.98
+internalapps-hyd.actcorp.in has address 123.176.37.43
+intfileshare.actcorp.in is an alias for intfileshare-blr.actcorp.in.
+intfileshare-blr.actcorp.in has address 106.51.41.34
+intfileshare-blr.actcorp.in has address 106.51.41.34
+it.actcorp.in has address 123.176.37.62
+kkpl.actcorp.in has address 123.176.37.68
+lcoportal.actcorp.in has address 123.176.37.50
+ldappri.actcorp.in has address 202.83.20.151
+ldapsec.actcorp.in has address 202.83.20.152
+listman.actcorp.in has address 123.176.37.66
+lnk.in4.actcorp.in has address 206.183.108.3
+lyncdiscover.actcorp.in is an alias for webdir.online.lync.com.
+webdir.online.lync.com has address 52.113.68.15
+lyncdiscover.vc.actcorp.in is an alias for vc.actcorp.in.
+mail.actcorp.in has address 202.83.20.158
+mail.alerts.actcorp.in has address 202.83.20.142
+mail.hydtest.actcorp.in has address 202.83.20.106
+mail.hyd.actcorp.in has address 202.83.20.100
+mail.in1.actcorp.in has address 202.53.8.74
+mail.in2.actcorp.in has address 202.53.8.75
+mail.in3.actcorp.in has address 123.176.40.157
+mail.in4.actcorp.in has address 202.53.8.72
+mail.in6.actcorp.in has address 202.83.20.134
+mail.in7.actcorp.in has address 202.83.20.143
+mail.in8.actcorp.in has address 202.53.8.71
+mail.in9.actcorp.in has address 202.53.8.129
+mail.incredible.actcorp.in has address 202.83.20.138
+mail.in.actcorp.in has address 202.53.8.73
+mail.mail10.alerts.actcorp.in has address 202.83.20.153
+mail.mailer1.actcorp.in has address 123.176.40.133
+mail.mailer2.actcorp.in has address 123.176.40.134
+mail.mailer3.actcorp.in has address 202.53.8.5
+mail.mailer4.actcorp.in has address 202.53.8.6
+mail.mailer5.actcorp.in has address 202.53.8.7
+mail.mailer6.actcorp.in has address 202.53.8.77
+mail.mailer7.actcorp.in has address 202.53.8.81
+mail.mailer8.actcorp.in has address 202.53.8.76
+mail.mailer9.actcorp.in has address 202.53.8.78
+mail.mailer10.actcorp.in has address 202.53.8.178
+mail.mailer11.actcorp.in has address 202.53.8.86
+mail.mailer12.actcorp.in has address 123.176.37.240
+mail.mailer13.actcorp.in has address 123.176.37.185
+mail.mailer14.actcorp.in has address 123.176.37.196
+mail.mailer15.actcorp.in has address 202.53.8.223
+mail.mailer16.actcorp.in has address 202.53.8.157
+mail.mailer17.actcorp.in has address 202.53.8.188
+mail.roi.actcorp.in has address 202.83.20.103
+mail1.alerts.actcorp.in has address 202.53.8.73
+mail1.hydtest.actcorp.in has address 202.83.20.138
+mail1.nmsalerts.actcorp.in has address 202.83.20.137
+mail2.alerts.actcorp.in has address 202.53.8.74
+mail2.hyd.actcorp.in has address 202.83.20.138
+mail2.roi.actcorp.in has address 202.83.20.138
+mail3.alerts.actcorp.in has address 202.53.8.75
+mail4.alerts.actcorp.in has address 123.176.40.157
+mail5.alerts.actcorp.in has address 123.176.40.159
+mail7.alerts.actcorp.in has address 202.83.20.134
+mail8.alerts.actcorp.in has address 202.83.20.143
+mail9.alerts.actcorp.in has address 202.83.20.142
+mail10.alerts.actcorp.in has address 202.83.20.153
+mailbox1.actcorp.in has address 202.83.20.153
+mailbox2.actcorp.in has address 202.83.20.154
+marchive.actcorp.in has address 202.83.20.100
+mb1.actcorp.in has address 202.83.30.153
+mb2.actcorp.in has address 202.83.20.154
+mb3.actcorp.in has address 202.83.20.155
+mb4.actcorp.in has address 202.83.20.156
+mdpm.actcorp.in has address 123.176.37.99
+mrtg.actcorp.in has address 123.176.37.94
+msoid.actcorp.in is an alias for clientconfig.microsoftonline-p.net.
+clientconfig.microsoftonline-p.net is an alias for a.privatelink.msidentity.com.
+a.privatelink.msidentity.com is an alias for prda.aadg.msidentity.com.
+prda.aadg.msidentity.com is an alias for www.tm.a.prd.aadg.trafficmanager.net.
+www.tm.a.prd.aadg.trafficmanager.net has address 20.190.146.33
+www.tm.a.prd.aadg.trafficmanager.net has address 20.190.146.37
+www.tm.a.prd.aadg.trafficmanager.net has address 20.190.146.34
+www.tm.a.prd.aadg.trafficmanager.net has address 20.190.146.38
+www.tm.a.prd.aadg.trafficmanager.net has address 20.190.146.35
+www.tm.a.prd.aadg.trafficmanager.net has address 20.190.146.36
+www.tm.a.prd.aadg.trafficmanager.net has address 40.126.18.32
+www.tm.a.prd.aadg.trafficmanager.net has address 20.190.146.39
+mta.actcorp.in has address 202.83.20.138
+mta1.actcorp.in has address 202.83.20.146
+mta2.actcorp.in has address 202.83.20.147
+mydigital.actcorp.in has address 106.51.41.160
+myfibernet.actcorp.in is an alias for myfibernet.actcorp.in.induscdn.com.
+myfibernet.actcorp.in.induscdn.com is an alias for myfibernet.actcorp.in.indusguard.com.
+myfibernet.actcorp.in.indusguard.com has address 13.234.100.208
+myfibernet.actcorp.in.indusguard.com has address 13.234.170.222
+myfibernettest.actcorp.in has address 202.53.8.162
+myfibernet-blr.actcorp.in has address 106.51.41.105
+myfibernet-hyd.actcorp.in has address 123.176.37.173
+mynet.actcorp.in is an alias for mynet-hyd.actcorp.in.
+mynet-hyd.actcorp.in has address 202.53.8.155
+mynet-blr.actcorp.in has address 106.51.41.26
+mynet-hyd.actcorp.in has address 202.53.8.155
+nhv.actcorp.in is an alias for nhv-hyd.actcorp.in.
+nhv-hyd.actcorp.in has address 123.176.37.172
+nhv-blr.actcorp.in has address 106.51.41.185
+nhv-hyd.actcorp.in has address 123.176.37.172
+nmsalert.nmsalerts.actcorp.in has address 202.83.20.149
+nmsalerts.actcorp.in has address 202.83.20.149
+nmsblr.actcorp.in is an alias for nmsblr-1.actcorp.in.
+nmsblr-1.actcorp.in has address 123.176.37.176
+nmsblr-1.actcorp.in has address 123.176.37.176
+nmsblr-2.actcorp.in has address 106.51.41.21
+nmshyd.actcorp.in is an alias for nmshyd-1.actcorp.in.
+nmshyd-1.actcorp.in has address 123.176.37.180
+nmshyd-1.actcorp.in has address 123.176.37.180
+nmshyd-2.actcorp.in has address 106.51.41.10
+nmstest.actcorp.in has address 123.176.37.180
+nmsvjw.actcorp.in has address 202.83.30.47
+ns1.actcorp.in has address 202.83.21.5
+ns2.actcorp.in has address 123.176.37.108
+ns11.actcorp.in has address 202.53.8.40
+ns12.actcorp.in has address 202.83.21.45
+ottblrcdn1.actcorp.in has address 49.205.73.10
+ottblrcdn2.actcorp.in has address 49.205.73.11
+ottchncdn1.actcorp.in has address 103.16.203.202
+otthydcdn1.actcorp.in has address 183.82.12.10
+ottstagingdrm.actcorp.in has address 49.205.73.38
+partnerportal.actcorp.in has address 202.53.8.209
+pcprotect.actcorp.in has address 123.176.37.14
+pop.actcorp.in has address 202.83.20.150
+pop.actcorp.in has address 202.83.20.158
+portal.actcorp.in has address 202.53.8.30
+preprod.actcorp.in has address 202.53.8.105
+prtg.actcorp.in has address 123.176.37.69
+prtgblr.actcorp.in has address 202.83.23.55
+pulse.actcorp.in has address 123.176.40.31
+pwad.actcorp.in has address 49.205.74.17
+radyo.actcorp.in has address 123.176.40.52
+redirect.actcorp.in has address 202.53.8.240
+retailer.actcorp.in is an alias for retailer.actcorp.in.induscdn.com.
+retailer.actcorp.in.induscdn.com is an alias for retailer.actcorp.in.indusguard.com.
+retailer.actcorp.in.indusguard.com has address 43.204.76.5
+retailer.actcorp.in.indusguard.com has address 43.204.118.148
+retailer-hyd.actcorp.in has address 123.176.37.48
+roi.actcorp.in has address 202.83.20.103
+sandbox.actcorp.in is an alias for sandbox.actcorp.in.induscdn.com.
+sandbox-hyd.actcorp.in has address 123.176.37.163
+sap.actcorp.in has no A record
+scbd.actcorp.in has address 123.176.37.67
+scriptmaster.actcorp.in has address 106.51.41.16
+selfcare.actcorp.in is an alias for selfcare-hyd.actcorp.in.
+selfcare-hyd.actcorp.in has address 202.53.8.130
+selfcare-blr.actcorp.in has address 106.51.41.221
+selfcare-hyd.actcorp.in has address 202.53.8.130
+sightline.actcorp.in has address 183.82.14.116
+sip.actcorp.in has address 123.176.40.54
+sip.vc.actcorp.in is an alias for vc.actcorp.in.
+sip1.actcorp.in has address 123.176.40.50
+sip2.actcorp.in has address 202.83.21.31
+sip3.actcorp.in has address 123.176.40.230
+sitestats.actcorp.in has address 123.176.40.32
+sitselfcare.actcorp.in has address 123.176.37.166
+smartfilter.actcorp.in has address 183.82.14.242
+smsu.actcorp.in has address 123.176.40.62
+smtp.actcorp.in has address 202.83.20.146
+smtp.actcorp.in has address 202.83.20.147
+sngr.actcorp.in has address 123.176.37.69
+snkp.actcorp.in has address 123.176.37.67
+soa.actcorp.in is an alias for soa.actcorp.in.induscdn.com.
+soa.actcorp.in.induscdn.com is an alias for soa.actcorp.in.indusguard.com.
+soa.actcorp.in.indusguard.com has address 65.2.19.98
+soa.actcorp.in.indusguard.com has address 15.207.219.15
+soa-blr.actcorp.in has address 106.51.41.116
+soa-hyd.actcorp.in has address 123.176.37.174
+speedtest.actcorp.in has address 183.82.12.46
+speedtestahmd.actcorp.in has address 183.83.241.254
+speedtestblr.actcorp.in has address 202.83.20.214
+speedtestblr1.actcorp.in has address 202.83.20.214
+speedtestcbe.actcorp.in has address 106.51.113.13
+speedtestchn.actcorp.in has address 103.16.203.20
+speedtestchn1.actcorp.in has address 103.16.203.20
+speedtestdelhi.actcorp.in has address 49.207.47.14
+speedtesthyd.actcorp.in has address 183.82.12.46
+speedtestjpr.actcorp.in has address 49.204.174.13
+speedtestlkn.actcorp.in has address 183.82.174.13
+speedtestnlr.actcorp.in has address 106.51.255.143
+speedtestnlr1.actcorp.in has address 106.51.255.143
+speedtestviz.actcorp.in has address 106.51.115.152
+speedtestvjw.actcorp.in has address 202.83.30.41
+speedtest-delhi.actcorp.in has address 49.207.47.14
+speedtest-pub01.actcorp.in has address 123.176.40.146
+speedtest-pub02.actcorp.in has address 123.176.40.146
+srac1-vip.actcorp.in has address 123.176.37.123
+srac2-vip.actcorp.in has address 123.176.37.124
+srac-dr.actcorp.in has address 123.176.37.86
+sso.actcorp.in has address 49.205.74.70
+sso.actcorp.in has address 123.176.40.212
+static.actcorp.in has address 202.53.8.32
+static1.actcorp.in has address 202.53.8.33
+subtest.actcorp.in has address 202.53.8.190
+sview.actcorp.in is an alias for sview-hyd.actcorp.in.
+sview-hyd.actcorp.in has address 123.176.37.116
+sview-blr.actcorp.in has address 106.51.41.118
+sview-hyd.actcorp.in has address 123.176.37.116
+term.actcorp.in has address 123.176.37.44
+testbot.actcorp.in has address 202.53.8.39
+testdomain.actcorp.in has address 123.176.40.18
+testhyd.actcorp.in has address 202.53.8.86
+testmynet.actcorp.in has address 202.53.8.15
+tiny.actcorp.in is an alias for tiny.actcorp.in.induscdn.com.
+tiny.actcorp.in.induscdn.com is an alias for tiny.actcorp.in.indusguard.com.
+tiny.actcorp.in.indusguard.com has address 43.204.76.5
+tiny.actcorp.in.indusguard.com has address 43.204.118.148
+tiny-hyd.actcorp.in has address 123.176.37.135
+tkt.actcorp.in has address 123.176.37.46
+tnka.actcorp.in has address 123.176.37.67
+tplinkcam.actcorp.in is an alias for tplinkcam.actcorp.in.induscdn.com.
+tplinkcam.actcorp.in.induscdn.com is an alias for tplinkcam.actcorp.in.indusguard.com.
+tplinkcam.actcorp.in.indusguard.com has address 106.51.41.211
+trigger.in4.actcorp.in is an alias for env.etransmail.com.
+env.etransmail.com is an alias for elnk.netcorecloud.net.
+elnk.netcorecloud.net has address 34.117.197.73
+uatapi.actcorp.in has address 123.176.37.122
+uatpwa.actcorp.in has address 123.176.37.122
+uatselfcare.actcorp.in has address 202.53.8.158
+uatweb.actcorp.in has address 123.176.37.122
+um.actcorp.in has address 123.176.40.49
+um1.actcorp.in has address 123.176.40.55
+vas.actcorp.in has address 123.176.40.123
+vc.actcorp.in has no A record
+vcsc.actcorp.in has address 49.206.236.11
+vlogs.actcorp.in has address 123.176.37.120
+vpnblr.actcorp.in has address 202.82.20.102
+vpnblr.actcorp.in has address 202.83.20.102
+vpnhyd.actcorp.in has address 123.176.40.56
+vsip4.actcorp.in has address 123.176.41.230
+vum.actcorp.in has address 123.176.40.55
+wcalerts.actcorp.in has address 123.176.40.102
+webmail.actcorp.in is an alias for mail.actcorp.in.
+mail.actcorp.in has address 202.83.20.158
+wifizone.actcorp.in has address 202.53.8.159
+wifi-zone.actcorp.in has address 202.53.8.218
+wpad.actcorp.in has address 202.83.20.122
+www.actb860hota.actcorp.in has address 202.83.20.119
+www.actcorp.in is an alias for www.actcorp.in.induscdn.com.
+www.actcorp.in.induscdn.com is an alias for indusprodcustomer16515.pc.cdn.bitgravity.com.
+indusprodcustomer16515.pc.cdn.bitgravity.com is an alias for pc-b.bitgravity.com.
+pc-b.bitgravity.com has address 64.185.181.238
+www-blr.actcorp.in has address 49.205.74.19
+www-hyd.actcorp.in has address 202.53.8.32
