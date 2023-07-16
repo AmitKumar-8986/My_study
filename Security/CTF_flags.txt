@@ -1,0 +1,5 @@
+magpie{w3_5pi7_1n_7h3_f4c3_0f_7yr4nny}        [Last Act of Mom & Pop]
+magpie{bu7-7h3-m1Lk-ju57-fl04T5-4W4y!}        [Beep Boop]
+flag{PHP_d0esnt_alw@ys_s33m_s0_same...}       [Sad PHP]
+flag{coooOooOooOooookieeeeesssSss}            [Eat Cookie]
+FLAG{Y0U_AR3_0N_F1R3}                         [Counter Attack]

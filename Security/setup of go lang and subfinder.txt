@@ -1,0 +1,19 @@
+VERSION=$(curl -k -L -s https://golang.org/VERSION?m=text)
+ARCH="amd64"
+cd ~/
+wget "https://golang.org/dl/${VERSION}.linux-${ARCH}.tar.gz"
+tar -xf ${VERSION}.linux-${ARCH}.tar.gz
+chown -R root:root ~/go
+mv -v ~/go /usr/local
+echo $SHELL(if zsh shell otherwise ~/.bashrc)
+vim ~/.zshrc
+	goto end of file:
+	add this line
+		export $GOPATH=$HOME/go
+		export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
+	:wq
+
+source ~/.zshrc
+go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+subfinder -d oziva.com -t 100 -silent > output.txt
+

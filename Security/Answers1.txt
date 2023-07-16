@@ -1,0 +1,40 @@
+SMTP:
+client:10.10.1.4
+server:74.53.140.153
+subject:SMTP
+recipent:raj_deol2002in@yahoo.co.in
+Body:	Hello
+ 	I send u smtp pcap file 
+	Find the attachment
+	GPS
+
+DNS:
+client:192.168.170.8
+server:192.168.170.20
+query: google.com, type:TXT, class IN
+
+AND MANY MORE RECORDS FOR DNS QUERIES
+
+
+
+HTTP:
+client:145.245.160.237
+server:65.208.228.223
+web server version/type: Apache
+page requested:  www.ethereal.com/download.html
+
+
+
+
+FTP:
+client:81.131.67.131
+server:192.88.99.1 
+ftp directory: /
+data exchanged: no
+
+
+
+
+
+
+
