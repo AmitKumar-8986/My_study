@@ -1,0 +1,22 @@
+pipeline{
+    agent any
+    stages{
+        stage('fetch-code'){
+            steps{
+                git 'https://github.com/AmitKumar-8986/demo.git'
+            }
+        }
+        stage('build-image'){
+            steps{
+                sh 'docker stop webapp'
+                sh 'docker rm webapp'
+                sh 'docker build -t webapps:v1 .'
+            }
+        }
+        stage('deploy-image'){
+           steps{
+                sh 'docker run --name webapp -p 9001:80 -d webapps:v1'
+           }
+        }
+    }
+}
